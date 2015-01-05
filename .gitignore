@@ -1,3 +1,11 @@
+## test env.
+main.pdf
+make
+quickmake
+
+## Apple
+.DS_Store
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
